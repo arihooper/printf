@@ -9,7 +9,7 @@
 
 int (*util_func(const char a))(va_list)
 {
-	myprintf printf[] = {
+	my_printf printf[] = {
 		{'c', print_char},
 		{'s', print_str},
 		{'d', print_number},
