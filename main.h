@@ -7,7 +7,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 
-int _put_char(char c);
+int _put_char(char s);
 int _printf(const char *format, ...);
 int print_number(va_list n);
 int print_str(va_list s);
