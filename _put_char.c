@@ -3,7 +3,7 @@
 
 
 /**
- * _put_char - writes the character c to stdout
+ * _put_char - writes the character s to stdout
  * @s: the character to print
  *
  * Return: on success 1

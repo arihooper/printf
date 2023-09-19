@@ -14,7 +14,7 @@ int (*util_func(const char a))(va_list)
 		{'s', print_str},
 		{'d', print_number},
 		{'b', print_binary},
-		{'i',print_number},
+		{'i', print_number},
 		{'\0', NULL}
 	};
 
